@@ -1,6 +1,7 @@
 import React from 'react';
 import Amplify, { Auth, Hub } from 'aws-amplify';
 
+// ES Modules, e.g. transpiling with Babel
 
 const USER_POOL_ID='<YOUR_USER_POOLID>';
 const USER_POOL_WEB_CLIENT_ID = '<YOUR_WEB_CLIENT_ID>';
