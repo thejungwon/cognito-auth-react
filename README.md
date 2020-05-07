@@ -1,7 +1,7 @@
 # React.js Cognito Auth Custom UI
 For the people who just realized that you cannot customize the hosted UI...
 ![Screen Shopt](image.png?raw=true "Screen Shot")
-## Instalation
+## Installation
 ```
 git clone https://github.com/thejungwon/cognito-auth-react.git
 cd cognito-auth-react
