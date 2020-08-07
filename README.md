@@ -1,5 +1,6 @@
 # React.js Cognito Auth Custom UI
-For the people who just realized that you cannot customize the hosted UI...
+- For the people who just realized that you cannot customize the hosted UI...
+- AWS Cognito 인증 예제 (react)
 ![Screen Shopt](image.png?raw=true "Screen Shot")
 ## Installation
 ```
